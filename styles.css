@@ -28,3 +28,12 @@ a {
     height: auto;
     width: 300px;
 }
+
+.recipe-img {
+    text-align: center;
+}
+
+.recipe-img img {
+    height: auto;
+    width: 300px;
+}
